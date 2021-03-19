@@ -1,6 +1,6 @@
 // Code your solutions in this file
 const namesArray = ['Lisa', 'Kaitlin', 'Jan'];
-const messageArray = [];
+const messageArray = ['birthday'];
 
 function writeCards(namesArray,messages) {
     for (let i = 0; i < namesArray.length; i++) {
